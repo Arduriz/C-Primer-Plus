@@ -1,9 +1,0 @@
-﻿  Ch2 PE.c
-C:\Users\arduriz\Desktop\C-Primer-Plus\Ch2 PE\Ch2 PE.c(5,2): warning C4013: 'ch2_1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\arduriz\Desktop\C-Primer-Plus\Ch2 PE\Ch2 PE.c(9,2): warning C4013: 'ch2_3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\arduriz\Desktop\C-Primer-Plus\Ch2 PE\Ch2 PE.c(13,2): warning C4013: 'ch2_4'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\arduriz\Desktop\C-Primer-Plus\Ch2 PE\Ch2 PE.c(17,2): warning C4013: 'ch2_6'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\arduriz\Desktop\C-Primer-Plus\Ch2 PE\Ch2 PE.c(21,2): warning C4013: 'ch2_8'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\arduriz\Desktop\C-Primer-Plus\Ch2 PE\Ch2 PE.c(84,10): warning C4098: 'one_three': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\arduriz\Desktop\C-Primer-Plus\Ch2 PE\Ch2 PE.c(90,10): warning C4098: 'two': 'void' 함수에서 값을 반환하고 있습니다.
-  Ch2 PE.vcxproj -> C:\Users\arduriz\Desktop\C-Primer-Plus\Ch2 PE\x64\Debug\Ch2 PE.exe
